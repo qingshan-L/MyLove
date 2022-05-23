@@ -1,6 +1,6 @@
 # My Love Story
 
-## 网址: <https://shanjianzhusun.github.io/LoveWangPing/>
+## 网址: < https://shanjianzhusun.github.io/MyLove/>
 
 ## 简述学习经过
 
